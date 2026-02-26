@@ -4,7 +4,7 @@
 
 Welcome to my GitHub! I’m a Software & Data Engineer based in Vancouver, BC focused on backend systems, automation, AI workflows, and data solutions.
 
-🌐 wheelder.com – home of my multi-app platform and Deep Research Reflection AI chatbot  
+🌐 wheelder.com – home of my multi-app platform and Deep Research chatbot  
 
 ## 🔎 About Me
 
